@@ -1,4 +1,4 @@
-# SQL_Project_Pizza_Sale_Analysis.
+# SQL_Project_Pizza_Sale_Analysis..
 
 Basic:
 Retrieve the total number of orders placed.
